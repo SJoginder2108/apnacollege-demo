@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository.
 <br>
-Author - Joginder Singh Chouhan
+Author - Joginder Singh (websiteexpert)
